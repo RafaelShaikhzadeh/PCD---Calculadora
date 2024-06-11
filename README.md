@@ -1,2 +1,2 @@
 # PCD---Calculadora
-soma, diminui, aumenta, area
+calculadora de perda de intensidade em microfibras oticas
